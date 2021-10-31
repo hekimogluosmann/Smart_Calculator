@@ -1,6 +1,14 @@
 // package calculator;
 
+
 // again simple change to display updated code in feature-z ;
+
+
+// very little simple change in feature-y to show the difference ;
+
+// Making a simple edit to show the difference feature-x ;
+
+
 
 import java.util.*; 
 import org.apache.logging.log4j.LogManager;
