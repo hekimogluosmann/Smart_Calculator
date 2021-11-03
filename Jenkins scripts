@@ -39,7 +39,7 @@ pipeline{
                 disableHostKeyChecking: true, 
                 inventory: 'deployment/inventory', 
                 playbook: 'deployment/deploy.yml', 
-                sudoUser: null  
+                sudoUser: null   
             }          
         }   
     }
